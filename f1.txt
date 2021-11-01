@@ -3,3 +3,4 @@ subteam B, work session 2
 subteam A, dev work session 1
 subteam B, work session 3, DONE!
 subteam A, hates team b
+subteam A is now done with f1!!!
