@@ -1,1 +1,3 @@
 subteam B, work session 1
+subteam B, work session 2
+
